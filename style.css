@@ -164,6 +164,7 @@ body {
 		width: 60%;
 		font-size: 40px;
 	}
+}
 
 @media (min-width: 576px) {
 	.Intro1 {
@@ -249,10 +250,6 @@ body {
 	background-color: #003140;
 }
 
-form {
-	border: 3px solid gray;
-}
-
 footer {
   padding: 40px 0;
   padding-bottom: 20px;
@@ -283,7 +280,7 @@ footer .social > a:hover {
   opacity:0.9;
 }
 
-footer .copyright {
+footer .contact {
   margin-top: 15px;
   text-align: center;
   font-size: 15px;
